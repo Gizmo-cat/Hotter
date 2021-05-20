@@ -28,6 +28,7 @@ namespace HotterColder
     public class Game : IGame
     {
         private readonly int num;
+        // more changes
         public string res { get; private set; }
         public bool state { get; private set; }
         private int guesssCount = 1;
