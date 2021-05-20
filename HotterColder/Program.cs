@@ -5,6 +5,7 @@ namespace HotterColder
 
     /// <summary>
     /// RandomGenerator: wrapper class to generate a random number
+/// more comments
     /// </summary>
     public static class RandomGenerator
     {
